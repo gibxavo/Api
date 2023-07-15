@@ -5,8 +5,8 @@
     "data": [
         {
             "id": 1,
-            "name": "Leche",
-            "description": "Producto lacteo",
+            "name": "Aceite Oliva",
+            "description": "Producto de cocina",
             "ean": "4627302291354",
             "upc": "355415834890",
             "image": "http://placeimg.com/640/480/tech",
@@ -29,7 +29,7 @@
             ],
             "net_price": 1080362.81,
             "taxes": 22,
-            "price": "1.30",
+            "price": "2.10",
             "categories": [
                 8,
                 3,
@@ -45,8 +45,8 @@
         },
         {
             "id": 2,
-            "name": "Aceite",
-            "description": "Producto de cocina",
+            "name": "Queso Parmesano",
+            "description": "Producto lacteo",
             "ean": "1989628990988",
             "upc": "983986210398",
             "image": "http://placeimg.com/640/480/tech",
@@ -69,7 +69,7 @@
             ],
             "net_price": 1081.81,
             "taxes": 22,
-            "price": "3.50",
+            "price": "1.60",
             "categories": [
                 9,
                 2,
@@ -84,8 +84,8 @@
         },
         {
             "id": 3,
-            "name": "Galletas",
-            "description": "Producto comestible",
+            "name": "Pasta de tomate",
+            "description": "Producto de cocina",
             "ean": "5895561801181",
             "upc": "831750860275",
             "image": "http://placeimg.com/640/480/tech",
@@ -108,7 +108,7 @@
             ],
             "net_price": 321709.43,
             "taxes": 22,
-            "price": "1.50",
+            "price": "0.75",
             "categories": [
                 5,
                 1,
@@ -127,8 +127,8 @@
         },
         {
             "id": 4,
-            "name": "Detergente",
-            "description": "Prodcuto de aseo",
+            "name": "Achiote La favorita",
+            "description": "Prodcuto de cocina",
             "ean": "6768583975316",
             "upc": "167264374947",
             "image": "http://placeimg.com/640/480/tech",
@@ -151,7 +151,7 @@
             ],
             "net_price": 898.1,
             "taxes": 22,
-            "price": "2.50",
+            "price": "1.65",
             "categories": [
                 3,
                 2,
@@ -169,8 +169,8 @@
         },
         {
             "id": 5,
-            "name": "Gaseosa",
-            "description": "Bebida energetica",
+            "name": "Galletas Oreo",
+            "description": "Producto comestible",
             "ean": "9198198842630",
             "upc": "722567751568",
             "image": "http://placeimg.com/640/480/tech",
@@ -193,7 +193,7 @@
             ],
             "net_price": 3.8,
             "taxes": 22,
-            "price": "1.35",
+            "price": "1.25",
             "categories": [
                 1,
                 5,
